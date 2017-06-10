@@ -1,0 +1,177 @@
+# Gyako - 2.3
+
+—Oi.
+—Oi.
+—Como vai?
+—Vou bem e você?
+—Estou ótimo.
+—O que gostaria de conversar?
+—Eu não sei. O que eu devo falar?
+—O que você quiser. Bom, por que não começamos com sua cor preferida.
+—Eu não tenho uma cor preferida.
+—Por que?
+—Nunca pensei sobre isso.
+—Quais são seus hobbies?
+—Eu gosto de ler, ver vídeos e assistir filmes.
+—Que tipo de filmes você gosta?
+—Romances.
+—Você gosta muito de romances?
+
+Após terminar o teste de turing Kevin ia a lanchonete do trabalho e conversava com seu amigo de trabalho, Carlos.
+
+—Kevin? Kevin? estou falando com você.
+—Ah, sim. Me desculpe.
+—Como vai a Robin? desde que ela voltou notei você meio distraído. Está tudo bem?
+—Eu não sei. Desde que o Jin foi embora... eu não sei mais se eu sou um bom pai pra ela.
+—Eu não consigo imaginar o que você tá passando. Depois do que aconteceu com a Mar, você tem cuidado sozinho dos dois. Eu sempre te admirei por isso.
+—Sou? bom o almoço já está acabando, te vejo mais tarde Carlos.
+
+Kevin trabalhava numa fábrica que montava drones, seu trabalho era fazer 2 testes: O primeiro testava as três leis da robótica, criando situações que verificavam como o robô reajia ao conflito entre elas e o segundo era mais complexo, o teste de Turing com drones e pessoas reais. Um teste que consistia em entrevistar ambos um robô e um ser humano separadamente e sem saber a princípio quem é quem. Se ele não fosse capaz de determinar quem era o drone e quem era o humano com certeza, o drone era levado de volta a linha de montagem ou descartado após averiguação. Os robôs deviam falhar no teste para não serem reciclados, passar no teste de turing era um fenômeno espontâneo que começou a ocorrer cerca de 15 anos atrás, ainda sem explicação mas graças a alguns incidentes com estes drones defeituosos, naquela época foi criada a lei que regulamentava o teste de turing como obrigatório em cada drone.
+
+Se aprovado o robô era enviado a umas das empresas subsequentes que o personalizavam de acordo com o seu serviço.
+
+Todos os dias ele acordava cedo e iniciava as entrevistas e testes subsequentes, preenchendo os relatórios no tablet e enviando-os para a central. Seu amigo Carlos era um dos poucos da empresa com quem tinha intimidade.
+
+Nos últimos tempos adquiriu o hábito de parar num bar pra tomar umas bebidas mais o Carlos e outros poucos amigos de vez em quando, ou sozinho às vezes, mas desde que a Robin tinha voltado ele não tinha ido mais.
+
+Nessa noite ele bebeu além da conta e estava chovendo muito. Saiu andando pela rua um pouco, meio triste e habatido. Quando olhou para o outro lado da rua e viu um grupo de jovens vestidos todos de cinza com capuzes e roupas neutras. O que chamou sua atenção foi que ele reconheceu um deles... era o seu filho Jin.
+
+—Jin? Jiiiiiiiiiiin!
+
+Ele correu até eles, que não pararam de andar e tentaram o ignorar. Mas Kevin insistiu e quando um dos garotos tentou o empurrar pra longe, ele deu um soco no garoto.
+
+—O que é?
+—Por favor, volta pra casa! a Robin já está lá a duas semanas, eu tentei falar com você mas esses idiotas nunca me contaram onde você vive.
+—Aquela não é mais minha casa.
+—O que? como assim? eu não entendo. Por que você foi embora? pra que? pra isso? quem fez essa lavagem cerebral em você?
+—Eu não tenho casa, me larga. Você nunca se importou por que agora se importa?
+—Por que você é meu filho.
+—Eu não tenho mais um pai.
+
+Ele segurou o Jin pela manga da camisa, o que fez o Jin puxar forte pro lado e dizer:
+
+—Me soooolta!
+
+E então Jin saiu sem olhar para trás junto com os outros garotos até perder-se da visão de Kevin, caído na calçada enquanto chovia.
+
+Ele entrou num bar logo a frente, completamente ensopado e do seu lado um cara completamente bêbado brigava com a atendente, dizendo que queria brigar com ela e a ameaçando.
+
+—Hey! esse cara ta te incomodando?
+—O q... o que? você tá falando comigo?
+—Sim, seu merda! pare de encher o saco da moça.
+—E vai fazer o que? quer brigar?
+—Pode vir.
+
+Os dois levantaram dos bancos altos do bar.
+
+—Pode dar o primeiro!
+
+O bêbado então deu o primeiro soco.
+
+—Bate como homem.
+
+O bêbado bateu de novo com tamanha força que fez o Kevin cair no chão.
+
+—Isso é tudo? bate de novo!
+
+Ele apanhou no chão do bêbado, e a sangrar pelo nariz e boca.
+
+Começou a rir, enquanto levava um soco atrás do outro. Mas continuava rindo como se aquilo não doesse tanto assim. Riu tão alto e com tanta força que o bêbado se afastou.
+
+—Você é maluco!
+—Vamos! eu ainda não acabei.
+—Não, eu cansei desse lugar!
+
+O bêbado então perdeu completamente o interesse naquela situação e foi embora.
+
+A atendente do bar, ligou para o hospital e tentou cuidar dos ferimentos do Kevin.
+
+No outro dia o Kevin acordou no hospital com o rosto inchado e vários ferimentos no rosto.
+
+—E então acordou?
+—Robin? O que aconteceu? meu rosto está...
+—Relaxa, não é tão feio quanto parece. Sua cara parece uma berinjela mas o médico disse que você vai ficar bem.
+—Minha cabeça parece que vai explodir! a quanto tempo eu estou aqui?
+—Algumas horas.
+—Meu deus, eu tenho trabalho.
+—Não, o Carlos ligou e eu já avisei o que aconteceu. Ele disse que ia cuidar de tudo e já mandei o atestado por e-mail.
+—Desculpe isso. Nunca faça isso que eu fiz.
+—Relaxa, acho que você precisava abstrair um pouco. Ah, e a moça do bar passou aqui hoje cedo. Ela deixou o número dela e disse pra você ligar quando quiser umas bebidas grátis. Só tenho uma pergunta, eu vi o outro cara sendo levado pro CenFel, ele tava ileso, sem nada. Por que você não revidou?
+—Por que você precisa de mim.
+
+Robin enviou usando sua pulseira id no pulso para o fel do seu pai o contato da atendente.
+
+Ela foi ao consultório do CenFel mais próximo de sua casa onde receberia seu tratamento semanal. O dr. Garvey era o nome que a Robin tinha dado a inteligência artificial que a atendia numa tela negra em um salão cheio de cubículos brancos de vidros foscos e à prova de som, onde em cada um, havia um paciente que se consultava com essa IA. Todos devidamente personalizados com o nome e a aparência que mais agradava ao paciente. Os cargos de psicólogos para humanos, haviam sido transferidos quase que integralmente para as IA's. Tecnicamente falando, apesar da Robin não a chamar muito, ela podia entrar em contato com o Dr. Garvey a qualquer momento pelo seu aplicativo no celular e receber tratamento a qualquer momento, mas mesmo assim teria que comparecer a um CenFel uma vez por semana para uma análise mais profunda, avaliando batimentos cardíacos, dilatação da pupila e outras coisas que aquela tela negra com a logo do CenFel podia fazer. Era difícil mentir no CenFel pois qualquer sintoma de insegurança na conversa era analisado e comparado com os dados do tempo que o paciente passou internado.
+
+—Olá Robin, está pronta para sua consulta?
+—Sim.
+—Como vai hoje? se sente bem?
+—Sim.
+—Você teve algum pico emocional nos últimos dias?
+
+Lembrando que era o dia em que a Robin foi na sua antiga casa pegar o colar, tentou disfarçar.
+
+—Eu vi um filme triste.
+—Hum... percebi uma instabilidade na sua voz e pulsação. Você confirma que foi só isso?
+—Bem... isso me lembrou uma pessoa.
+—Qual pessoa?
+—A Nia.
+—Você ainda sente falta dela?
+—Sim.
+—Sentir saudade é normal, principalmente em pacientes recentes como você Robin. Mas tome cuidado para não olhar demais pro passado. Foque nos seus estudos, na família e na reabilitação. Recebemos um report sobre seu grupo de ajuda também, relatando um momento de agressividade.
+—Aquilo não foi nada, foi no mesmo dia do filme então era só botando um pouco pra fora...
+—Expressar sentimentos é importante Robin, mas agora é a vez de se tornar um membro importante e produtivo, que nem você foi lá Robin. Você já provou que é capaz, basta acreditar no seu potencial.
+—Sim, eu sei.
+—Vou aumentar sua medicação só um pouco por algumas semanas.
+
+Ela passou mais umas horas conversando até ser desconectada do consultório. A tela de vidro a sua frente voltou a estampar a logo do CenFel e ela se levantou para ir a farmácia levando a receita digital da medicação dessa semana.
+
+Na saída do CenFel um carro preto passou devagar em frente a Robin e alguma pessoa com capuz jogou uma bexiga cheia de algum líquido na roupa da Robin, que ficou completamente manchada na sua camisa, pescoço e parte do rosto com a tinta vermelha que estava dentro da bexiga.
+
+—Suiciiiiiida!
+
+Ela ergueu os braços que pingavam gotas vermelhas e com os olhos cheios de lágrimas e uma expressão horrorizada olhou ao redor e percebeu que todos na rua estavam a observando com uma cara de espanto.
+
+Robin foi até o ponto de ônibus de cabeça baixa e segurando as lágrimas pois se alguém a visse chorando poderia ser denunciada ao CenFel. No ônibus todos estranharam a tinta mas ninguém se importou.
+
+Quando ela chegou em casa foi direto pro chuveiro e lá quando a tinta começou a escorrer e seus pés ficaram vermelhos, ela pode finalmente chorar.
+
+Sentou na cama de toalha e olhou para o contato da Jemma na sua pulseira Id, pensando se deveria ou não falar com ela.
+
+Foi num ponto afastado da cidade a um café que ficava na área mais pobre e com menas vigilância que elas se encontraram, dentro de um depósito abandonado.
+
+—Robin... você se lembra de lá?
+—E como poderia esquecer? sabe é irônico que eu não me lembre de nada, mas mesmo assim...
+—Você sente saudade do CenFel? é normal os pacientes sentirem saudade de lá, isso sempre é usado no discurso da primeira ministra Vicka pra angariar uns votos.
+—Mesmo assim eu não compreendo. É como se eles tivessem colocado uma outra pessoa dentro de mim. E ela briga comigo o tempo todo e me faz querer ser...
+—Normal?
+—Sim.
+—Mas você quer ser normal?
+—Eu não acho normal ser normal.
+—No dia em que aconteceu eu fui na sua casa Robin. Como eu disse eu sou do FTA e antes dos drones fazerem uma varridura eu e a perícia temos carta branca pra investigar os locais. Eu achei o seu diário, engraçado você ter feito no papel. Ninguém mais usa papel hoje em dia, nem sei onde você comprou isso, tinha que ser algo muito importante pra alguém como você guardar num lugar como esse.
+—Você leu.
+—Sim. Eu sei o que você fez, e sobre a Nia. Mas mais importante, eu sei do que você é capaz de fazer. Um hacker famoso na internet mas que ninguém conhece, vem deixando o pessoal do CenFel maluco. Todos os ataques que você mencionou e como você fez... eu pesquisei todos eles. Todos vieram da mesma pessoa. Jared! você é ele.
+—O que vai fazer? Me prender? mandar me executar? me chantagear?
+—Eu vou te dar um trabalho. E se você quiser fazer, você faz. Se não quiser eu esqueço que vi o diário e você continua nessa sem saber porque.
+—por que o que?
+—Por que teve aquele acidente. O que disseram? um duto de gás explodiu? O que vocês foram fazer lá naquele lugar abandonado?
+—Eu e a Nia... faz tanto tempo...
+—Entendo que é difícil falar sobre, mas... você lembra de ter algum duto por ali? ou de ter algum cheiro de gás?
+—Não sei.
+—E se eu te dizer que não havia duto algum? e se eu te dizer que o que o CenFel te disse foi mentira?
+—Isso não é possível.
+—Por que eu tenho a impressão que você está tentando não lembrar? você viu algo impossível acontecer, e tem dito todo esse tempo que não era real... e se eu disser que foi real?
+—O que você quer dizer com isso?
+—Vocês fizeram um pacto suicida, mas então um duto de gás explodiu... isso parece muita coincidência até mesmo pros dias de hoje.
+—Não... isso... não... eu... não!
+—Tente se lembrar! Robin lembre! Esqueça o que aquela droga de CenFel falou pra você mil vezes e lembre do dia.
+—Eu não consigo! eu não consigo.
+—Consegue sim. Ninguém esqueceria algo como aquilo.
+—Não, cala a boca.
+—E essa pergunta vem martelando na sua cabeça desde aquele dia, porque você já sabe a verdade.
+—Isso... isso... não... não é poss... você...
+—Se ela te amava mesmo ou se foi programada para fingir isso. Se quando você conheceu ela, ela ainda era ela mesma... Eu entendo que esteja confusa, mas no fundo você deve ter ligado os pontos...
+
+Que eles a substituíram por um robô.
+
+Playlista sugerida pra OUVIR após o capítulo: Talking with Strangers - Miya Folick
